@@ -1,0 +1,13 @@
+h1 {
+color: grey;
+text-align: center;
+}
+body {
+background: rgb(50,148,175);
+}
+img {
+  border: 8px solid #000;
+}
+a {
+color: black;
+}
